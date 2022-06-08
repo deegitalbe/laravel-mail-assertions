@@ -1,5 +1,5 @@
 {
-    "name": "spinen/laravel-mail-assertions",
+    "name": "deegitalbe/laravel-mail-assertions",
     "description": "PHPUnit mail assertions for testing email in Laravel.",
     "keywords": [
         "email",
