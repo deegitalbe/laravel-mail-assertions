@@ -20,9 +20,9 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
-        "illuminate/container": "~5.7|~6|~7|~8",
-        "illuminate/mail": "~5.7|~6|~7|~8",
+        "php": "^8.0",
+        "illuminate/container": "~5.7|~6|~7|~8|~9",
+        "illuminate/mail": "~5.7|~6|~7|~8|~9",
         "swiftmailer/swiftmailer": "~6.2",
         "phpunit/phpunit": "^8.4|^9.0"
     },
